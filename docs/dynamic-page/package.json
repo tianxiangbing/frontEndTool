@@ -61,7 +61,7 @@
     "style-loader": "^0.13.1",
     "uglify-js": "^2.6.0",
     "webpack": "^4.41.5",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": "^3.10.2",
     "x-i18n": "0.0.4"
   },
   "dependencies": {
